@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/discord-bot.dir/link.d "CMakeFiles/discord-bot.dir/src/main.cpp.o" -o discord-bot  /usr/lib/libdpp.so

@@ -1,0 +1,3 @@
+/home/snacj/Dev/CPP/Discord-CPP/build/CMakeFiles/discord-bot.dir
+/home/snacj/Dev/CPP/Discord-CPP/build/CMakeFiles/edit_cache.dir
+/home/snacj/Dev/CPP/Discord-CPP/build/CMakeFiles/rebuild_cache.dir
